@@ -1,4 +1,4 @@
-<a><img src="https://img.icons8.com/000/home"></a>
+<a><img src="https://img.icons8.com/000000/home"></a>
 
 # Описание интерфейса системы "Охрана труда"
 ### ИСР 1.8
