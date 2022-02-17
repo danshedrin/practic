@@ -26,9 +26,9 @@
 
 2.1. [Описание рабочего места программиста](https://danshedrin.github.io/practic/comfort-21)
 
-2.2. [](https://danshedrin.github.io/practic/history-12)
+2.2. [Первая медицинская помощь при электротравме на рабочем месте программиста](https://danshedrin.github.io/practic/safety-22)
 
-2.3. [](https://danshedrin.github.io/practic/history-12)
+2.3. [Прикладное ПО кофейни](https://danshedrin.github.io/practic/software-23)
 
-2.4. [](https://danshedrin.github.io/practic/history-12)
+2.4. [Технические средства кофейни](https://danshedrin.github.io/practic/hardware-24)
 
