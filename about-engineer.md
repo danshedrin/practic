@@ -1,3 +1,5 @@
+<a href="https://danshedrin.github.io/practic" color="black"><img src="https://img.icons8.com/material/home">  << На главную</a>
+
 # ИНЖЕНЕР-ПРОГРАММИСТ (ПРОГРАММИСТ)
 ### ИСР 1.7
 [Оригинал документа](http://login.consultant.ru/link/?req=doc&base=LAW&n=294402&dst=100596&date=17.02.2022)
