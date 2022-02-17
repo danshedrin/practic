@@ -1,4 +1,4 @@
-<a><img src="https://img.icons8.com/000000/home"></a>
+[<img src="https://img.icons8.com/000000/home"></a> На главную](https://danshedrin.github.io/practic)
 
 # Описание интерфейса системы "Охрана труда"
 ### ИСР 1.8
