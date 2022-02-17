@@ -1,4 +1,6 @@
 # Практическая работа Щедрина Данила
 Репозиторий с отчетом по практике в РГПУ им. А.И. Герцена студента 1 курса **Щедрина Данила**
 
-[ИНСТРУКЦИЯ по охране труда для программиста (оператора) ПЭВМ и ВДТ | https://demo.consultant.ru/cgi/online.cgi?req=doc&base=PAP&n=37352&dst=0#Z71dhxSo9ZexeQiR1]
+[ИНСТРУКЦИЯ по охране труда для программиста (оператора) ПЭВМ и ВДТ](https://demo.consultant.ru/cgi/online.cgi?req=doc&base=PAP&n=37352&dst=0#Z71dhxSo9ZexeQiR1)
+[ИНСТРУКЦИЯ по охране труда для программиста (оператора) ПЭВМ и ВДТ](http://www.consultant.ru/document/cons_doc_LAW_58804/)
+
