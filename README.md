@@ -22,7 +22,7 @@
 
 1.10. [](https://danshedrin.github.io/practic/history-12.md)
 
-1.11. [](https://danshedrin.github.io/practic/history-12.md)
+1.11. [Обеспечение рабочего места iOS-разработчика](https://danshedrin.github.io/practic/workspace-111.md)
 
 2.1. [](https://danshedrin.github.io/practic/history-12.md)
 
