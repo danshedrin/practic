@@ -3,4 +3,4 @@
 # История информатики. Mind Map.
 ### ИСР 1.2
 
-<img src="https://github.com/danshedrin/practic/blob/e7696b93f86af314b2602af5ebb054dbb0174f42/1.2%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F%D0%98%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B8.png"></img>
+<img src="https://github.com/danshedrin/practic/blob/0a57524c1d304de80aac65d90d7a0ec6e7d83b39/Workspace.drawio.png?raw=true">
