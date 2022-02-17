@@ -1,4 +1,4 @@
-<a href="https://danshedrin.github.io/practic" color="black"><img src="https://img.icons8.com/material/home">  << На главную</a>
+<button><img src="https://img.icons8.com/material/home" alt="" href="https://danshedrin.github.io/practic" style="vertical-align:middle"> На главную</button>
 
 # Предлагаемый комплекс физкультурной паузы для программистов
 ### ИСР 1.4
