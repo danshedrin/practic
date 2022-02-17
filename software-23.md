@@ -1,3 +1,5 @@
+<a href="https://danshedrin.github.io/practic" color="black"><img src="https://img.icons8.com/material/home">  << На главную</a>
+
 # Прикладное программное обеспечение информационно-вычислительной системы кофейни
 ### ВСР 2.3
 
