@@ -1,6 +1,6 @@
 <a href="https://danshedrin.github.io/practic" color="black"><img src="https://img.icons8.com/material/home">  << На главную</a>
 
-# Технические средства информационно-вычислительной системы
+# Технические средства информационно-вычислительной системы кофейни
 ### ВСР 2.4
 
 Модель: HP Laptop 15-bs1xx
