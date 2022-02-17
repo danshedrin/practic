@@ -3,4 +3,4 @@
 # Описание рабочего места программиста
 ### ВСР 2.1
 
-![](https://github.com/danshedrin/practic/blob/8b760e3e85132405deb8ff424b24dabc9310702b/%D0%92%D0%A1%D0%A02.1.drawio.png)
+<img src="https://github.com/danshedrin/practic/blob/146e78ab4f2267d01555a01f05b350f37af9c165/%D0%92%D0%A1%D0%A02.1.drawio.png">
