@@ -1,4 +1,4 @@
-<button onclick="window.location.href = 'https://danshedrin.github.io/practic';"><img src="https://img.icons8.com/material/home" style="vertical-align:middle"> На главную</button>
+<form action="https://danshedrin.github.io/practic" target="_blank"><button><img src="https://img.icons8.com/material/home" style="vertical-align:middle"> На главную</button></form>
 
 # Предлагаемый комплекс физкультурной паузы для программистов
 ### ИСР 1.4
