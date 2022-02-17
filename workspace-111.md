@@ -1,7 +1,7 @@
 # Анализ аппаратного, программного и информационного обеспечения iOS-разработчика
 ### ИСР 1.11
 
-[mind map(https://github.com/danshedrin/practic/blob/0a57524c1d304de80aac65d90d7a0ec6e7d83b39/Workspace.drawio.png "Mind Map")]
+![mind map](https://github.com/danshedrin/practic/blob/0a57524c1d304de80aac65d90d7a0ec6e7d83b39/Workspace.drawio.png "Mind Map")
 
 **Аппаратное обеспечение**
 1. Компьютер - Apple MacBook Air (2020).
