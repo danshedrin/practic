@@ -1,4 +1,4 @@
-[<img src="https://img.icons8.com/material/home"> <p color="000000">На главную</p>](https://danshedrin.github.io/practic)
+<a href="https://danshedrin.github.io/practic" color="black"><img src="https://img.icons8.com/material/home">На главную</a>
 
 # Описание интерфейса системы "Охрана труда"
 ### ИСР 1.8
