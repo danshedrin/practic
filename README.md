@@ -12,7 +12,7 @@
 
 1.5. [Гимнастика для глаз](https://danshedrin.github.io/practic/eyerelax-15)
 
-1.6. [ИНСТРУКЦИЯ по охране труда для программиста (оператора) ПЭВМ и ВДТ](https://demo.consultant.ru/cgi/online.cgi?req=doc&base=PAP&n=37352&dst=0#Z71dhxSo9ZexeQiR1)
+1.6. [ИНСТРУКЦИЯ по охране труда для программиста (оператора) ПЭВМ и ВДТ](https://danshedrin.github.io/practic/instruction-16)
 
 1.7. [Квалификационный справочник должностей руководителей, специалистов и других служащих](https://danshedrin.github.io/practic/about-engineer-17)
 
