@@ -20,7 +20,7 @@
 
 1.9. [Санитарно-эпидемиологические требования к физическим факторам на рабочих местах](https://danshedrin.github.io/practic/plan-19)
 
-1.10. [](https://danshedrin.github.io/practic/history-12)
+1.10. [Инсталляция ПО JetBrains PyCharm](https://danshedrin.github.io/practic/installation-110)
 
 1.11. [Обеспечение рабочего места iOS-разработчика](https://danshedrin.github.io/practic/workspace-111)
 
